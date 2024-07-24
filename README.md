@@ -1,6 +1,6 @@
 # Podcast gerado com IA 🎙️
 
-# -Algoritmo Inteligente: Inovações e Tendências em IA
+# - Algoritmo Inteligente: Inovações e Tendências em IA
 
 ## 📒 Descrição
 Podcast roterizado pelo ChatGPT, para a voz foi utilizada uma IA, o podcast foi revisado e editado por humano
