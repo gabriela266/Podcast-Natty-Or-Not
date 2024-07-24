@@ -1,0 +1,38 @@
+Prompts utilizados
+
+# Prompt do título do Podcast
+
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em Inteligência artificial, e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de inteligência artificial
+O podcast vai falar sobre dicas e novidades sobre o mundo da inteligência artificial e o que está acontecendo no mercado
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome deve conter alguma palavra forte que remeta a inteligência artificial
+
+---------------------------------------------------------------------------------
+
+# Prompt do Episódio de Podcast
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em Inteligência artificial, cujo o nome é "Algoritmo Inteligente: Inovações e Tendências em IA" e tem foco em Inteligência artificial,  com o público alvo de pessoas de tecnologia que querem saber das principais novidades sobre IA
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de IAs Generativas
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta para trabalhar com IA
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Gabi e esse foi o episódio dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Gabi
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 3 minutos de duração
